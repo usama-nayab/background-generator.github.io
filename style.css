@@ -49,3 +49,12 @@ h2 {
   word-spacing: 0.3rem;
   text-shadow: 0 0.3rem 0.5rem rgba(82, 79, 79, 0.3);
 }
+
+h3{
+  margin-top: 1rem;
+  text-align: center;
+  font-family: "Fredoka One", cursive;  
+  letter-spacing: 0.2rem;
+  word-spacing: 0.3rem;
+  text-shadow: 0 0.3rem 0.5rem rgba(82, 79, 79, 0.3);
+}
